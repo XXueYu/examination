@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3db7ca54-eb7a-497e-b3a5-068e66688b76" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QoXVOKV7XdJgFTjgs6CLv1V3Kc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SubStr">
+    <configuration name="MaximumWithdraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.arithmetic.dynamicPlan.MaximumWithdraw" />
+      <module name="examination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.arithmetic.dynamicPlan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaleTickets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.learn.multithread.SaleTickets" />
+      <module name="examination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.learn.multithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.arithmetic.Solution" />
+      <module name="examination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.arithmetic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.arithmetic.dynamicPlan.SubArray" />
+      <module name="examination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.arithmetic.dynamicPlan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiao.arithmetic.dynamicPlan.SubStr" />
+      <module name="examination" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiao.arithmetic.dynamicPlan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubStr" />
+        <item itemvalue="Application.SubArray" />
+        <item itemvalue="Application.MaximumWithdraw" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.SaleTickets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3db7ca54-eb7a-497e-b3a5-068e66688b76" name="Default Changelist" comment="" />
+      <created>1568437946378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568437946378</updated>
+      <workItem from="1568437953595" duration="8971000" />
+      <workItem from="1568726113304" duration="4429000" />
+      <workItem from="1568797575366" duration="5718000" />
+      <workItem from="1568803946036" duration="1020000" />
+      <workItem from="1568884499747" duration="14666000" />
+      <workItem from="1569641613491" duration="4800000" />
+      <workItem from="1569677685037" duration="1822000" />
+      <workItem from="1569896516165" duration="584000" />
+      <workItem from="1571983424918" duration="2479000" />
+      <workItem from="1572417056100" duration="5894000" />
+      <workItem from="1572573706825" duration="14325000" />
+      <workItem from="1573616811812" duration="9795000" />
+      <workItem from="1573911295538" duration="777000" />
+      <workItem from="1574132787144" duration="11983000" />
+      <workItem from="1574324781235" duration="3914000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xiao/arithmetic/TopK.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xiao/arithmetic/Sort.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xiao/arithmetic/Search.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xiao/arithmetic/Search.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xiao/arithmetic/dynamicPlan/MaximumWithdraw.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xiao/arithmetic/dynamicPlan/SubStr.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xiao/arithmetic/dynamicPlan/SubStr.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
